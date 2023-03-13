@@ -4,7 +4,7 @@ Au cours de ce TP, vous manipulerez des VMs en utilisant l'interface Horizon qui
 ## Instancier une VM 
 
 ### Étape préliminaire  : 
-Démarrer votre poste sous GNU/Linux (Ubuntu). Connectez vous ensuite à la plateforme d’administration Horizon de Openstack via votre navigateur en saisissant dans la barre de navigation l’URL suivante : [https://cloud-info.univ-lyon1.fr/horizon](http://clound-info.univ-lyon1.fr/horizon)
+Démarrer votre poste sous GNU/Linux (Ubuntu). Connectez vous ensuite à la plateforme d’administration Horizon de Openstack via votre navigateur en saisissant dans la barre de navigation l’URL suivante : [https://cloud-info.univ-lyon1.fr/horizon](https://cloud-info.univ-lyon1.fr/horizon)
 
 Pour se connecter à votre futur instance de machine virtuelle vous aurez besoin d’un jeu de clé SSH (clés publique/privé). Pour cela: 
 
@@ -22,7 +22,7 @@ Comme mentionner au début, nous allons utiliser une image Docker qui sera relat
 * Dans la section `Key Pair` séléctionner la clé que vous avez crée.
 * Maintenant, vous pouvez lancer  votre VM.
 
-:clap: Vous venez de créer votre VM !
+**Bravo! ** Vous venez de créer votre VM :clap: !
 
 * Quelle est votre adresse IP ?
 * Quel status a votre VM ? Comment l'éteindre ?

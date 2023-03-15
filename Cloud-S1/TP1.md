@@ -22,7 +22,7 @@ Comme mentionner au début, nous allons utiliser une image Docker qui sera relat
 * Dans la section `Key Pair` séléctionner la clé que vous avez crée.
 * Maintenant, vous pouvez lancer  votre VM.
 
-**Bravo! ** Vous venez de créer votre VM :clap: !
+**Bravo!** Vous venez de créer votre VM :clap: !
 
 * Quelle est votre adresse IP ?
 * Quel status a votre VM ? Comment l'éteindre ?

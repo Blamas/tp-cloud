@@ -214,7 +214,7 @@ sans avoir à stoper le conteneur.
 ### **2 / Les tags (~10min)**
 
 2.1 / Démarrez un conteneur détaché avec une image `nginx` sur le
-tag `1.22.3-alpine`
+tag `alpine`
 
 2.2 / Affichez la liste des conteneurs qui tournent sur votre instance
 

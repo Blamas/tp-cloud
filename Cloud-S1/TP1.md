@@ -1,5 +1,5 @@
-# TP Introduction au Cloud Computing
-Au cours de ce TP, vous manipulerez des VMs en utilisant l'interface Horizon qui permet d'administrer la plateforme Cloud OpenStack. Vous allez utiliser pour le TP une image `Docker Ready` sur laquelle vous allez vous connecter en utilisant SSH.
+# TP 1 - Introduction au Cloud Computing [^1]
+Au cours de ce TP, vous manipulerez des VMs en utilisant l'interface Horizon qui permet d'administrer la plateforme Cloud OpenStack. Vous allez utiliser pour le TP une image `Docker Ready` sur laquelle vous allez vous connecter en utilisant SSH. 
 
 ## Instancier une VM 
 
@@ -141,4 +141,8 @@ Nous allons retenter notre expérience avec `Apache`. Installer sur votre nouvel
 
 **Bravo!** Vous avez fini le TP :clap: !
 
+**:warning: Supprimez** la seconde VM que vous avez crée.
+
 **Faites vérifier vos réponses par l'encadrante :mag:**
+
+[^1]: This lab is in tribute to Fabien Rico.

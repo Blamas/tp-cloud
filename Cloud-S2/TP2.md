@@ -271,6 +271,10 @@ vous faut exposer les ports du conteneur.
 L'image docker `nginx:latest` fait tourner par défaut le serveur web `nginx` sur
 le port 80 dans le conteneur.
 
+⚠️ Pour la suite de ce TP il vous faut ajouter une règle pour autoriser l'accès au port
+`8080` sur le firewall openstack, seul un groupe dans le projet à besoin d'effectuer cette
+étape
+
 5.1 / Démarrez un conteneur `nginx` en détaché en exposant le serveur web
 `nginx` sur le port `8080`
 
